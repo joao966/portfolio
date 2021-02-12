@@ -55,8 +55,9 @@ a{
 
 a:hover{
     background-color: bisque;
-    color: black;
 }
 
-
+a:active{
+    color: black;
+}
 
